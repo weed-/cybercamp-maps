@@ -1,5 +1,5 @@
 
-![Rovercamp Cybercamp](https://raw.githubusercontent.com/weed-/cybercamp/master/maps/assets/logo/rovercamp_cybercamp-2021_sw.png)
+![Rovercamp Cybercamp](https://raw.githubusercontent.com/weed-/cybercamp-maps/main/assets/logo/rovercamp_cybercamp-2021_transprnt.png)
 
 
 # cybercamp MAPS
@@ -20,11 +20,11 @@ Beschreibt wie man schnell mitbauen kann, mit und ohne git. Mit ist einfacher, a
     * `git commit -m "Meine Karte geht online"`
     * `git push`
 6. Testen!
-    * Passe diesen Link entsprechend an: https://play.workadventu.re/_/global/`mein-benutzername.github.io/cybercamp/maps/mein-kartenname.json`
+    * Passe diesen Link entsprechend an: https://play.workadventu.re/_/global/mein-benutzername.github.io/cybercamp-maps/eulenspiegel/mein-kartenname.json
     * Am besten geht das mit Chromium Browsern (Chrome, Edge, Brave ...)
     * Es kann manchmal ein paar Minuten dauern, bis deine neue Karte abrufbar ist.
 7. Weitermachen und Schritte 4-6 widerholen :-)
-8. ErstelltWenn du fertgi bist und deine Karte ins Cybercamp eingefügt werden soll:
+8. Wenn du fertig bist und deine Karte ins Cybercamp eingefügt werden soll:
     * Erstelle einen Pull request. Spieler können dann sofort eure Karte über die Cybercamp "Grundkarte" nutzen
 
 # Sonstiges
