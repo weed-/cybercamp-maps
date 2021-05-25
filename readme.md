@@ -20,7 +20,7 @@ Beschreibt wie man schnell mitbauen kann, mit und ohne git. Mit ist einfacher, a
     * `git commit -m "Meine Karte geht online"`
     * `git push`
 6. Testen!
-    * Passe diesen Link entsprechend an: https://play.workadventu.re/_/global/`mein-benutzername.github.io/cybercamp/maps/mein-kartenname.json`
+    * Passe diesen Link entsprechend an: https://play.workadventu.re/_/global/mein-benutzername.github.io/cybercamp-maps/eulenspiegel/mein-kartenname.json
     * Am besten geht das mit Chromium Browsern (Chrome, Edge, Brave ...)
     * Es kann manchmal ein paar Minuten dauern, bis deine neue Karte abrufbar ist.
 7. Weitermachen und Schritte 4-6 widerholen :-)
