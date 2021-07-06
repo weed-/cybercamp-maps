@@ -66,7 +66,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playaudio",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/files.freemusicarchive.org\/storage-freemusicarchive-org\/music\/True_Chip_Till_Death\/8bit_Betty\/too_bleep_to_bloop\/8bit_Betty_-_03_-_Nikomas_Theme_extended_mix.mp3?download=1&name=8bit%20Betty%20-%20Nikoma%27s%20Theme%20%28extended%20mix%29.mp3"
                 }],

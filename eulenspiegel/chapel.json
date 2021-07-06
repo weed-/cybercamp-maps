@@ -83,7 +83,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playaudio",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/files.freemusicarchive.org\/storage-freemusicarchive-org\/tracks\/rDCsjw7aailHdYQWOjwshUdcoTVobhNdbB7BHFxo.mp3?download=1&name=Marcos%20H.%20Bolanos%20-%20The%20Kid%20who%20played%20Alone.mp3"
                 }],
