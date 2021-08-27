@@ -505,7 +505,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=dpsgdvpaderborn&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume=0.5"
+                 "value":"https:\/\/cybercamp.dpsg-paderborn.de\/stream\/"
                 }],
          "type":"tilelayer",
          "visible":true,
