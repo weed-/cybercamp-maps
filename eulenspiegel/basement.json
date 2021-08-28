@@ -193,7 +193,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.dpsg-paderborn.de\/wackelaugen\/"
+                 "value":"https:\/\/cybercamp.dpsg-paderborn.de\/wackelaugen\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.dpsg-paderborn.de\/origami\/"
+                 "value":"https:\/\/cybercamp.dpsg-paderborn.de\/origami\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,7 +229,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.dpsg-paderborn.de\/papierflieger\/"
+                 "value":"https:\/\/cybercamp.dpsg-paderborn.de\/papierflieger\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -247,7 +247,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.dpsg-paderborn.de\/kugelbahn\/"
+                 "value":"https:\/\/cybercamp.dpsg-paderborn.de\/murmelbahn\/"
                 }],
          "type":"tilelayer",
          "visible":true,
