@@ -9,7 +9,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":39,
@@ -49,7 +50,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cybercamp\/eulenspiegel\/basemap.json#startFromChapel"
+                 "value":"basemap.json#startFromChapel"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -312,7 +313,7 @@
  "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -958,6 +959,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":40
 }

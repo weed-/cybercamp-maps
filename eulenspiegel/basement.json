@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/cybercamp\/eulenspiegel\/basemap.json#startFromBasement"
+                 "value":"basemap.json#startFromBasement"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -312,7 +312,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -1091,6 +1091,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":24
 }
